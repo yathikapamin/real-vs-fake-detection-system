@@ -152,8 +152,4 @@ The project natively supports two deep learning architectures depending on the m
 
 ---
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork this project, submit pull requests, or open an issue if you encounter bugs or want to request a new feature.
 
-## 📄 License
-This project is licensed under the MIT License.
